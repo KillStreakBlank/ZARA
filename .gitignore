@@ -1,0 +1,93 @@
+# Ignore user directories
+/Application Data/
+/Cookies/
+/Documents/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/AppData/
+/Contacts/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/OneDrive/
+/PycharmProjects/
+/Saved Games/
+/Searches/
+/Videos/
+
+# Ignore system files
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+*.regtrans-ms
+*.blf
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore other irrelevant files
+.bash_history
+*.ps1
+requirements.txt
+run_python_script.ps1
+# Ignore user directories in the parent directory
+../Application Data/
+../Cookies/
+../Documents/
+../Local Settings/
+../My Documents/
+../NetHood/
+../PrintHood/
+../Recent/
+../SendTo/
+../Start Menu/
+../Templates/
+../AppData/
+../Contacts/
+../Downloads/
+../Favorites/
+../Links/
+../Music/
+../OneDrive/
+../PycharmProjects/
+../Saved Games/
+../Searches/
+../Videos/
+
+# Ignore system files in the parent directory
+../NTUSER.DAT
+../ntuser.dat.LOG1
+../ntuser.dat.LOG2
+../ntuser.ini
+../*.regtrans-ms
+../*.blf
+
+# Ignore other files in the parent directory
+../.android/
+../.bash_history
+../.cache/
+../.dotnet/
+../.emulator_console_auth_token
+../.gitconfig
+../.gradle/
+../.gtk-bookmarks
+../.idea/
+../.kivy/
+../.lesshst
+../.ollama/
+../.vscode/
+../AndroidStudioProjects/
+../requirements.txt
+../run_python_script.ps1
+../venv/
